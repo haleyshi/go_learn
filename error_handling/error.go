@@ -25,9 +25,9 @@ func divide(varDividee int, varDivider int) (result int, errorMsg string) {
 		}
 		errorMsg = dData.Error()
 		return
-	} else {
-		return varDividee / varDivider, ""
 	}
+
+	return varDividee / varDivider, ""
 }
 
 func main() {
