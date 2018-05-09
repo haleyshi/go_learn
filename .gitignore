@@ -45,4 +45,6 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
-restful/todo_app/todo_app.exe
+
+# Windows Build result
+*.exe
